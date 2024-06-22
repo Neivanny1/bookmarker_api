@@ -40,6 +40,6 @@ Eric MWakazi
 
 ### Swagger Documentation page
 <h2>Home</h2>
-<br> <br><img src="https://github.com/Neivanny1/BookMarker API/blob/main/static/screenshots/home.png" alt="Description of the embedded content"> <br> <br>
+<br> <br><img src="https://github.com/Neivanny1/bookmarker_api/blob/main/screenshots/1.PNG" alt="Description of the embedded content"> <br> <br>
 <h2> Endpoints </h2> 
-<br> <br><img src="https://github.com/Neivanny1/BookMarker API/blob/main/static/screenshots/signup.png" alt="Description of the embedded content"> <br> <br>
+<br> <br><img src="https://github.com/Neivanny1/bookmarker_api/blob/main/screenshots/2.PNG" alt="Description of the embedded content"> <br> <br>
